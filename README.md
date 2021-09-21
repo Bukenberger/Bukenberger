@@ -1,7 +1,7 @@
-### &nbsp; Hi, there! I am Teran Bukenberger <img src="https://github.com/youngmin-chung/youngmin-chung/blob/main/hi.gif" width="30px">
+### &nbsp; Hi, there! I am Teran Bukenberger
 
-💡 &nbsp;New Grad - Actively Looking for an opportunity as a software developer.\
-✉️ &nbsp;You can shoot me an email at teranbukenberger@gmail.com! I'll try to respond as soon as I can.
+<!-- 💡 &nbsp;New Grad - Actively Looking for an opportunity as a software developer.\ -->
+<!-- ✉️ &nbsp;You can shoot me an email at teranbukenberger@gmail.com! I'll try to respond as soon as I can. -->
 <!-- 📄 &nbsp;Please have a look at my [Online Résumé](http://www.youngminchung.com) for more details about me. I'm open to feedback and suggestions! -->
 
 ### 🛠 &nbsp;Tech Stack
