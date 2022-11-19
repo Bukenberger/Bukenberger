@@ -28,11 +28,11 @@
 ![.NET](https://img.shields.io/badge/.net%20-%2343853D.svg?&style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 ## Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql)&nbsp;
-![SQL Server](https://img.shields.io/badge/sql-server-%2300f.svg?&style=for-the-badge&logo=sql-server)&nbsp;
-![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?&style=for-the-badge&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?&style=for-the-badge&logo=postgresql)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=for-the-badge&logo=Oracle)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2333f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
 ## Operating Systems
 ![Windows](https://img.shields.io/badge/-windows-black?style=for-the-badge&logo=windows)
