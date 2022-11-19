@@ -35,7 +35,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=for-the-badge&logo=Oracle)&nbsp;
 
 ## Operating Systems
-![Windows](https://img.shields.io/badge/-aindows?style=for-the-badge&logo=windows)
+![Windows](https://img.shields.io/badge/-windows-black?style=for-the-badge&logo=windows)
 ![Fedora](https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora)
 ![Android](https://img.shields.io/badge/-android-black?style=for-the-badge&logo=android)
 
